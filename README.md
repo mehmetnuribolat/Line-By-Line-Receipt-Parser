@@ -3,7 +3,8 @@ Google Cloud Vision API provides Optical Character Recognition service. When you
 
 This project is sample application for parsing polygon coordinates by line by line.
 
-![Line-By-Line-Receipt-Parser](https://github.com/mehmetnuribolat/Line-By-Line-Receipt-Parser/assets/145845943/8bb3da00-8ec1-4641-a5b8-dc7b8a0613ad)
+![Line-By-Line-Receipt-Parser](https://github.com/mehmetnuribolat/Line-By-Line-Receipt-Parser/assets/145845943/e50c81dc-7485-4b9c-8fdf-40ffd007e041)
+
 
 ## 💻 Tech Stack
 
