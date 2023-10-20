@@ -31,7 +31,7 @@ npm run dev
 ### View Results:
 You can check output in your console terminal.
 
-![Line-By-Line-Receipt-Parser](https://github.com/mehmetnuribolat/Line-By-Line-Receipt-Parser/assets/145845943/8247bbbc-2e5d-4cf6-bb12-59730db38629)
+![Line-By-Line-Receipt-Parser](https://github.com/mehmetnuribolat/Line-By-Line-Receipt-Parser/assets/145845943/89d5e9ca-cc33-4cf9-826f-bc2c1430a95b)
 
 ## 🤝 Contributing
 
