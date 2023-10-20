@@ -3,6 +3,8 @@ Google Cloud Vision API provides Optical Character Recognition service. When you
 
 This project is sample application for parsing polygon coordinates by line by line.
 
+  ![Line-By-Line-Receipt-Parser](https://github.com/mehmetnuribolat/Line-By-Line-Receipt-Parser/assets/145845943/8bb3da00-8ec1-4641-a5b8-dc7b8a0613ad)
+
 ## 💻 Tech Stack
 
 - Language: [TypeScript](https://www.typescriptlang.org/)
@@ -27,7 +29,9 @@ npm run dev
 ```
 
 ### View Results:
-You can check your console terminal to see results.
+You can check output in your console terminal.
+
+![Line-By-Line-Receipt-Parser](https://github.com/mehmetnuribolat/Line-By-Line-Receipt-Parser/assets/145845943/8247bbbc-2e5d-4cf6-bb12-59730db38629)
 
 ## 🤝 Contributing
 
