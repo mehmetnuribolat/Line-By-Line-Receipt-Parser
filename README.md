@@ -3,11 +3,17 @@ Google Cloud Vision API provides Optical Character Recognition service. When you
 
 This project is sample application for parsing polygon coordinates by line by line.
 
-  ![Line-By-Line-Receipt-Parser](https://github.com/mehmetnuribolat/Line-By-Line-Receipt-Parser/assets/145845943/8bb3da00-8ec1-4641-a5b8-dc7b8a0613ad)
+![Line-By-Line-Receipt-Parser](https://github.com/mehmetnuribolat/Line-By-Line-Receipt-Parser/assets/145845943/8bb3da00-8ec1-4641-a5b8-dc7b8a0613ad)
 
 ## 💻 Tech Stack
 
 - Language: [TypeScript](https://www.typescriptlang.org/)
+
+## ☀️ Proposed Algorithm
+
+- Calculate the leftmost, rightmost, topmost, and bottommost vertices from the given vertices array for defining a bounding box around a text region represented by these vertices.
+- Sort all text boxes in ascending order based on the y coordinate of leftbottom vertice property.
+- For each textbox - check the vertical distance between them for adding them  into different paragraphs.
 
 ## ⌨️ Development
 
